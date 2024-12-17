@@ -18,9 +18,9 @@ Usage command use the following format:
 ## Flags
 | Name                | Description                                    |
 | ------------------- | ---------------------------------------------- |
-|--create \[name\]    | Create a migration"                            |
-|--migrate            | Run migrations up"                             |
-|--rollback \[num\]   | Roll back \[num\] migrations"                  |
-|--goto \[num\]       | Goto specified \[num\] version of migrations"  | 
-|--rollback all       | Roll back all migrations"                      |
-|--db \[db_dsn\]      | Specify the database DSN"                      |
+|--create \[name\]    | Create a migration                             |
+|--migrate            | Run migrations up                              |
+|--rollback \[num\]   | Roll back \[num\] migrations                   |
+|--goto \[num\]       | Goto specified \[num\] version of migrations   | 
+|--rollback all       | Roll back all migrations                       |
+|--db \[db_dsn\]      | Specify the database DSN                       |
