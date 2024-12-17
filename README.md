@@ -12,7 +12,9 @@ To get started just run the script. If you don't provide any argument, it will s
 ./migrate.sh
 ```
 Usage command use the following format:
-`./migrate.sh [--create name] [--migrate] [--rollback number|all] [--goto number] --db [db_dsn]`
+```
+./migrate.sh [--create name] [--migrate] [--rollback number|all] [--goto number] --db [db_dsn]
+```
 ## Flags
 | Name                | Description                                    |
 | ------------------- | ---------------------------------------------- |
